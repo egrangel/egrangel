@@ -1,4 +1,4 @@
-<a href="https://github.com/egrangel"><img src="https://github.com/egrangel/egrangel/blob/master/devcard.svg" width="400" alt="Edimar Rangel's Dev Card"/></a>
+<a href="https://github.com/egrangel"><img src="https://github.com/egrangel/egrangel/blob/main/devcard.svg" width="400" alt="Edimar Rangel's Dev Card"/></a>
 
 
 <!--
